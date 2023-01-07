@@ -9,7 +9,6 @@ public class A {
         System.out.println("Działa konstruktor A(" + param + ")");
     }
 
-
 }
 
 class B extends A {
@@ -26,6 +25,7 @@ class B extends A {
 
 class Test {
     public static void main(String[] args) {
+
         B b = new B("test");
     }
 }
