@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 //przesłanianie
 public class Adder {
 

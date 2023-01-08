@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 public class PriceFormater {
     String currency =  "zł";
     String formatPrice(int value){

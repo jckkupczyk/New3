@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 public class SubPrinter extends Printer{
     int z = 3;
 

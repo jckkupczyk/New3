@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 //Stwórz klasy Human oraz Boy ustawiając je w odpowiedniej relacji.
 // Na przykładzie symbolicznej metody eat() zademonstruj działanie mechanizmu przesłaniania.
 public class Boys extends Human {

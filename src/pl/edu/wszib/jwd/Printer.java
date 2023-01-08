@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 public class Printer {
     int x = 0;
     int y = 1;

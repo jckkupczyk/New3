@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 public class Employee {
     String name;
     int age;

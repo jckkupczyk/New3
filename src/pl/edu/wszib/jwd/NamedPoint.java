@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 import java.awt.*;
 
 public class NamedPoint extends Point {

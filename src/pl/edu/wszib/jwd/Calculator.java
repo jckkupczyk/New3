@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 //Napisz program Calculator posiadający metody o nazwie add sumujące 2 lub 3 liczby typu int lub double.
 public class Calculator {
     public static void main(String[] args) {

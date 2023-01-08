@@ -1,3 +1,5 @@
+package pl.edu.wszib.jwd;
+
 import java.util.Objects;
 
 public class Product {
