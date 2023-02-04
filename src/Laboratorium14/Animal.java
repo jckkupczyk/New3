@@ -12,16 +12,7 @@ package Laboratorium14;
 //wyświetl informacje jakie zwierzę zostało umieszczone w kojcu nr 33 oraz ile tego rodzaju zwierząt przebywa obecnie w schronisku
 
 public abstract class Animal {
-
-    public String type;
-    public int instanceNumber;
-
-        public String getType() {
-            return type;
-        }
-
-    public int getInstanceNumber() {
-        return instanceNumber;
-    }
+    public abstract int getInstanceNumber();
+    public abstract String getType();
 
 }

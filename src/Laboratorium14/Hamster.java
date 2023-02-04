@@ -1,11 +1,12 @@
 package Laboratorium14;
 
-public class Cat extends Animal{
+public class Hamster extends Animal{
+
     private static int counter;
-    private static String type = "kot";
+    private static String type = "homik";
 
 
-    public Cat() {
+    public Hamster() {
         counter++;
     }
 
@@ -19,4 +20,5 @@ public class Cat extends Animal{
         return type;
     }
 }
+
 
