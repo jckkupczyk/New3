@@ -6,7 +6,7 @@ import java.util.Objects;
 // brand, color, year. Klasa powinna possiadać konstruktor gdzie parametrami
 // są wszystkie atrybuty klasy, oraz konstruktor gdzie możemy tylko podać markę
 // a domyślnie zostanie przypisany biały kolor oraz  obecny rok produkcji.
-// Wyposaż klasę  w metody toString() oraz equals().
+// Wyposaż klasę w metody toString() oraz equals().
 
 public class Car3 {
 
